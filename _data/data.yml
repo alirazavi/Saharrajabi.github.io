@@ -19,7 +19,7 @@ sidebar:
     github: Saharrajabi
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    #twitter: '@BiagioBrattoli'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,6 +49,7 @@ career-profile:
     summary: |
        born in 1996 in sanandaj. IT expert and system support of Farzanegan Abidar Sanandaj
        Knowledge-based programmer in Sanandaj for 1 year
+       https://quera.ir/profile/1996rajabi
 
 #news:
     #title: News
