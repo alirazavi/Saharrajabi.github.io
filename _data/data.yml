@@ -18,7 +18,7 @@ sidebar:
     linkedin: sahar-rajabi
     github: https://github.com/saharrajabi
     gitlab:
-    bitbucket:
+    Quera: http://quera.ir/profile/1996rajabi
     #twitter: '@BiagioBrattoli'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -48,8 +48,9 @@ career-profile:
     title: Career Profile
     summary: |
        born in 1996 in sanandaj. IT expert and system support of Farzanegan Abidar Sanandaj
-       Knowledge-based programmer in Sanandaj for 1 year
-       (https://quera.ir/profile/1996rajabi)
+       Knowledge-based programmer in Sanandaj for 1 year.Fluent in ICDL - accounting-Photoshop-
+       Corel Draw (Advertising banner design)
+       
 
 #news:
     #title: News
@@ -284,7 +285,7 @@ experiences:
        # conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Ability
 
     toolset:
       - name: photoshop
