@@ -18,7 +18,7 @@ sidebar:
     linkedin: sahar-rajabi
     github: https://github.com/saharrajabi
     gitlab:
-    Quera: http://quera.ir/profile/1996rajabi
+    [Quera]: (http://quera.ir/profile/1996rajabi)
     #twitter: '@BiagioBrattoli'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -285,7 +285,7 @@ experiences:
        # conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
-    title: Ability
+    [title]: (Ability)
 
     toolset:
       - name: photoshop
