@@ -285,7 +285,7 @@ experiences:
        # conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
-   title: skill &amp; proficiency
+  # title: skill &amp; proficiency
 
    #toolset:
       - name: photoshop
